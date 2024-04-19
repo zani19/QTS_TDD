@@ -9,9 +9,9 @@ Exercícios TDD
 Clone este repositório para o seu ambiente local
 
 ### Acesse a pasta do Exercício
-[EXERCÍCIO 1](QTS_TDD/EXERCICIO_1)
-[EXERCÍCIO 2](QTS_TDD/EXERCICIO_2)
-[EXERCÍCIO 3](QTS_TDD/EXERCICIO_3)
+[EXERCÍCIO 1](EXERCICIO_1)
+[EXERCÍCIO 2](EXERCICIO_2)
+[EXERCÍCIO 3](EXERCICIO_3)
 
 ### Instalar dependências
 Execute o comando `npm install` para instalar as dependências.
